@@ -10,6 +10,15 @@
         "path" : "https://build.fhir.org/templates/cqframework/cqf-opioidcds-ig-template",
         "status" : "ci-build",
         "current" : true
+      },
+      {
+        "version" : "0.0.1",
+        "date" : "2021-11-13",
+        "desc" : "First Release",
+        "path" : "http://fhir.org/templates/cqf.opioidcds.fhir.template/0.0.1",
+        "status" : "release",
+        "sequence" : "Publications",
+        "current" : true
       }
     ]
   }
