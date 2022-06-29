@@ -9,5 +9,5 @@
   "base": "cqf.fhir.template",
   "dependencies": {
     "cqf.fhir.template": "current"
-  } 
+  }
 }
