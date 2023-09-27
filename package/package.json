@@ -1,6 +1,6 @@
 {
   "name": "cqf.opioidcds.fhir.template",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "type": "fhir.template",
   "license": "CC0-1.0",
   "description": "CQF OpioidCDS FHIR Template",
@@ -8,6 +8,6 @@
   "canonical": "http://fhir.org/templates/cqf.opioidcds.fhir.template",
   "base": "cqf.fhir.template",
   "dependencies": {
-    "cqf.fhir.template": "0.2.0"
+    "cqf.fhir.template": "0.3.0"
   }
 }
