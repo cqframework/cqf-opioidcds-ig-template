@@ -28,6 +28,15 @@
         "status": "release",
         "sequence": "Publications",
         "current": true
+      },
+      {
+        "version": "0.3.0",
+        "date": "2023-09-27",
+        "desc": "Update to CQF Template 0.3.0",
+        "path": "http://fhir.org/templates/cqf.opioidcds.fhir.template/0.3.0",
+        "status": "release",
+        "sequence": "Publications",
+        "current": true
       }
     ]
   }
